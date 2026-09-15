@@ -15,7 +15,7 @@ on:
         type: string
 
 env:
-  SWIFTPROTOBUF_VERSION: "1.38.1"
+  SWIFTPROTOBUF_VERSION: "1.29.0"
 
 jobs:
   build:
